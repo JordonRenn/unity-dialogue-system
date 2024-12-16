@@ -5,8 +5,9 @@ A Node-Based Dialogue System made for Unity using the Experimental GraphView API
 ## Some Changes 
 
 - Some minor syntax, formating and variable names
-- Doesn't use enumeration to string method to sleect node type
-- Doesn't implement same name error detection
+- No Enumeration class, those enums are just declared in worldspace
+- Doesn't use enumeration to string method to sleect node type (Video #10)
+- Doesn't implement same name error detection (Videos #17-19)
 - assigns a unique id to every node that is created
 
 # License
